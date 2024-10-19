@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ##### I'm a software developer with a strong foundation in designing, coding, and testing software across various platforms. I'm trying to leverage technology to create meaningful and efficient solutions that make a positive impact, as well as i have been driven by a deep curiosity to understand and solve problems.
 
-##### I'm currently working on ... an application _> [inferno](https://infer-no.vercel.app).
+##### I'm currently working on ... an application _> [inferno](https://infer-no.vercel.app), please... [sponsor](https://github.com/sponsors/kumar-rinku0) my project.
 
 ##### To reach me or connect with me ... visit my _> [portfolio](https://rinku-portfolio-one.vercel.app).
 
