@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ##### I'm an elegant software developer, or, if I precisely say, I'm a craftsman who crafts sophisticated software solutions.
 
-##### I'm currently working on ... applications _> [inferno](https://infer-no.vercel.app), [pay-insight](https://pay-insight.vercel.app) please... [sponsor](https://github.com/sponsors/kumar-rinku0) my projects!
+##### I'm currently working on ... applications _> [pay-insight](https://pay-insight.vercel.app) please... [sponsor](https://github.com/sponsors/kumar-rinku0) my projects!
 
-##### To reach me or connect with me ... visit my _> [portfolio](https://rinku-portfolio-one.vercel.app) [rinku_kumar_](https://rinkukumar.in).
+##### To reach me or connect with me ... visit my _> [rinkukumar.in_](https://rinkukumar.in).
 
